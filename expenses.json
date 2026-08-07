@@ -1,0 +1,20 @@
+[
+    {
+        "category": "food",
+        "amount": 3500.0,
+        "description": "pizzas,cake,5 coffees,fries,snacks",
+        "date": "26-09-2006"
+    },
+    {
+        "category": "return gifts",
+        "amount": 1890.0,
+        "description": "2bracelets,5 lip oils",
+        "date": "26-09-2026"
+    },
+    {
+        "category": "outing",
+        "amount": 2500.0,
+        "description": "cab, 5 movie tickets",
+        "date": "26-09-2026"
+    }
+]
