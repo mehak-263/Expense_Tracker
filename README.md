@@ -13,7 +13,7 @@ A simple Python application to track daily expenses.
 
 - Python
 - JSON
-
+- Data handling
 ## How to Run
 
 ```bash
